@@ -68,7 +68,7 @@
     "npm": "8.11.x"
   },
   "license": "UNLICENSED",
-  "repository": "https://github.com/TabbycatDebate/tabbycat",
+  "repository": "https://github.com/ardhanaufal/tabbycat",
   "version": "3.18.1",
   "devDependencies": {
     "eslint-plugin-html": "^6.2.0",
